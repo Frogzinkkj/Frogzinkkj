@@ -2,7 +2,7 @@
 👨‍💻 Studying Systems Analysis and Development at Ucsal. 🌟 19 years old, Bahia, Brazil. 🚀 Passionate about technology and innovation.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-liborio-frog/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andree__luiis/)
 
 ![Frogzinkkj GitHub stats](https://github-readme-stats.vercel.app/api?username=Frogzinkkj&show_icons=true&theme=dracula)
 
