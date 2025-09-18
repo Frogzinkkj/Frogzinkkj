@@ -22,7 +22,7 @@
   
   ### Meet my friends
 
-  [gabrielfelps](https://github.com/gabrielfelpsGabrielfelps) - Frontend Developer, like a Javascrpit and React
+  [gabrielfelps](https://github.com/gabrielfelps) - Frontend Developer, like a Javascrpit and React
   
 </div>
   
