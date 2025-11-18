@@ -23,6 +23,7 @@
   ### Meet my friends
 
   [gabrielfelps](https://github.com/gabrielfelps) - Frontend Developer, like a Javascrpit and React
+  [felipemths12](https://github.com/felipemths12) - Backemd Developer, like a Java, APIREST and React
   
 </div>
   
