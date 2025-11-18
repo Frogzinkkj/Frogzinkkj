@@ -24,7 +24,7 @@
 
   [gabrielfelps](https://github.com/gabrielfelps) - Frontend Developer, like a Javascrpit and React
   <br>
-  [felipemths12](https://github.com/felipemths12) - Backemd Developer, like a Java, APIREST and React
+  [felipemths12](https://github.com/felipemths12) - Backend Developer, like a Java, APIREST and React
   
 </div>
   
