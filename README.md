@@ -1,15 +1,25 @@
- <img align="left" height="200" src="icon.jfif" alt="Profile picture">
- <h1 align="center">Hi there, i'm frog 🐸</h1>
-
-
-  <h3 align="center">Junior Backend Developer · Java/Spring </h3> 
-
-  <p align="center">Salvador, Bahia
-  <br/>
-  <br/>
-  <a href="https://www.linkedin.com/in/devandreliborio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:andre.liborio2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<table>
+  <tr>
+    <td width="220">
+      <img src="icon.jfif" height="200" alt="Profile picture">
+    </td>
+    <td>
+      <h1 align = "center" >Hi there, i'm frog 🐸</h1>
+      <h3 align = "center" >Junior Backend Developer · Java/Spring</h3>
+      <p align = "center" >
+        Salvador, Bahia
+        </br>
+        </br>
+      <a href="https://www.linkedin.com/in/devandreliborio/" >
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+      </a>
+      <a href="mailto:andre.liborio2005@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+      </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
  
