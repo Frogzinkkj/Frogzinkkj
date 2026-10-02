@@ -1,4 +1,4 @@
-<table>
+<table align = "center">
   <tr>
     <td width="220">
       <img src="icon.jfif" height="200" alt="Profile picture">
